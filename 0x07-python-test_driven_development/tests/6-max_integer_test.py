@@ -62,4 +62,3 @@ class TestMaxInteger(unittest.TestCase):
     def test_number(self):
         with self.assertRaises(TypeError):
             max_integer(1)
-Footer
